@@ -16,11 +16,11 @@ include('header.php');
       <!-- Card -->
       <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
         <div class="aspect-w-16 aspect-h-9">
-          <img class="w-full object-cover rounded-t-xl" src="https://images.unsplash.com/photo-1668869713519-9bcbb0da7171?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80" alt="Image Description">
+          <img class="w-full object-cover rounded-t-xl" src="images/Amala_and_Gbegiri_with_Ewedu_soup.jpg" alt="Image Description">
         </div>
         <div class="p-4 md:p-5">
           <p class="mt-2 text-xs uppercase text-gray-600 dark:text-gray-400">
-            Product
+            Amala with ewedu and gbegiri soup
           </p>
           <h3 class="mt-2 text-lg font-medium text-gray-800 group-hover:text-blue-600 dark:text-gray-300 dark:group-hover:text-white">
             Better is when everything works together
@@ -32,11 +32,11 @@ include('header.php');
       <!-- Card -->
       <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
         <div class="aspect-w-16 aspect-h-9">
-          <img class="w-full object-cover rounded-t-xl" src="https://images.unsplash.com/photo-1668863699009-1e3b4118675d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3387&q=80" alt="Image Description">
+          <img class="w-full object-cover rounded-t-xl" src="images/Jollof-rice-16.jpg" alt="Image Description">
         </div>
         <div class="p-4 md:p-5">
           <p class="mt-2 text-xs uppercase text-gray-600 dark:text-gray-400">
-            Business
+            Nigerian jollof rice
           </p>
           <h3 class="mt-2 text-lg font-medium text-gray-800 group-hover:text-blue-600 dark:text-gray-300 dark:group-hover:text-white">
             Should Product Owners think like entrepreneurs?
@@ -48,11 +48,11 @@ include('header.php');
       <!-- Card -->
       <a class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md transition dark:bg-slate-900 dark:border-gray-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
         <div class="aspect-w-16 aspect-h-9">
-          <img class="w-full object-cover rounded-t-xl" src="https://images.unsplash.com/photo-1668584054131-d5721c515211?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80" alt="Image Description">
+          <img class="w-full object-cover rounded-t-xl" src="images/egusi and pounded yam.jpeg" alt="Image Description">
         </div>
         <div class="p-4 md:p-5">
           <p class="mt-2 text-xs uppercase text-gray-600 dark:text-gray-400">
-            Facilitate
+            Pounded yam with egusi soup
           </p>
           <h3 class="mt-2 text-lg font-medium text-gray-800 group-hover:text-blue-600 dark:text-gray-300 dark:group-hover:text-white">
             Announcing Front Strategies: Ready-to-use rules
@@ -70,7 +70,7 @@ include('header.php');
           <p class="text-gray-600 dark:text-gray-400">
             Want to read more?
           </p>
-          <a class="inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 hover:underline font-medium dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="../docs/index.html">
+          <a class="inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 hover:underline font-medium dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="recipeslist.php">
             Go here
             <svg class="flex-shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
           </a>
