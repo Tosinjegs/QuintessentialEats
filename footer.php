@@ -10,7 +10,7 @@
   
       <div class="mt-3">
         <p class="text-gray-500">We're part of the <a class="font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-400" href="#">Htmlstream</a> family.</p>
-        <p class="text-gray-500">© Preline. 2022 Htmlstream. All rights reserved.</p>
+        <p class="text-gray-500">Copyright ©2024. All rights reserved.</p>
       </div>
   
       <!-- Social Brands -->
