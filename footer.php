@@ -1,19 +1,16 @@
 <header><script src="https://cdn.tailwindcss.com"></script></header>
 <body>
 <footer class="w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
-    <!-- Grid -->
     <div class="text-center">
       <div>
         <a class="flex-none text-xl font-semibold text-black dark:text-white dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#" aria-label="Brand">Brand</a>
       </div>
-      <!-- End Col -->
   
       <div class="mt-3">
         <p class="text-gray-500">We're part of the <a class="font-semibold text-blue-600 hover:text-blue-700 dark:text-blue-500 dark:hover:text-blue-400" href="#">Htmlstream</a> family.</p>
         <p class="text-gray-500">Copyright ©2024. All rights reserved.</p>
       </div>
   
-      <!-- Social Brands -->
       <div class="mt-3 space-x-2">
         <a class="inline-flex justify-center items-center size-10 text-center text-gray-500 hover:bg-gray-100 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition dark:text-gray-500 dark:hover:text-gray-200 dark:hover:bg-gray-800" href="#">
           <svg class="flex-shrink-0 size-3.5" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -36,7 +33,5 @@
           </svg>
         </a>
       </div>
-      <!-- End Social Brands -->
     </div>
-    <!-- End Grid -->
   </footer>

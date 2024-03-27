@@ -1,5 +1,4 @@
 <header><script src="https://cdn.tailwindcss.com"></script></header>
-<!-- ========== HEADER ========== -->
 <header class="flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full text-sm">
     <nav class="mt-6 relative max-w-[85rem] w-full bg-white border border-gray-200 rounded-[36px] mx-2 py-3 px-4 md:flex md:items-center md:justify-between md:py-0 md:px-6 lg:px-8 xl:mx-auto dark:bg-gray-800 dark:border-gray-700" aria-label="Global">
       <div class="flex items-center justify-between">
@@ -15,7 +14,7 @@
         <div class="flex flex-col gap-y-4 gap-x-0 mt-5 md:flex-row md:items-center md:justify-end md:gap-y-0 md:gap-x-7 md:mt-0 md:ps-7">
           <a class="font-medium text-blue-600 md:py-6 dark:text-blue-500" href="index.php" aria-current="page">Home</a>
           <a class="font-medium text-gray-500 hover:text-gray-400 md:py-6 dark:text-gray-400 dark:hover:text-gray-500" href="about.php">About</a>
-          <a class="font-medium text-gray-500 hover:text-gray-400 md:py-6 dark:text-gray-400 dark:hover:text-gray-500" href="#">Profile</a>
+          <a class="font-medium text-gray-500 hover:text-gray-400 md:py-6 dark:text-gray-400 dark:hover:text-gray-500" href="userprofilepage.php">Profile</a>
   
           <div class="hs-dropdown [--strategy:static] md:[--strategy:fixed] [--adaptive:none] md:[--trigger:hover] md:py-4">
             <button type="button" class="flex items-center w-full text-gray-500 hover:text-gray-400 font-medium dark:text-gray-400 dark:hover:text-gray-500 ">
@@ -63,4 +62,3 @@
       </div>
     </nav>
   </header>
-  <!-- ========== END HEADER ========== -->
